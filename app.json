@@ -1,8 +1,8 @@
 {
-  "name": "ANAYAT-AI",
-  "description": "Javascript WhatsApp bot made by 𝙰𝙽𝙰𝚈𝙰𝚃-𝙷𝙰𝙲𝙺𝙴𝚁",
+  "name": "JOEN-MEHAR007",
+  "description": "Javascript WhatsApp bot made by JOEN-MEHAR007",
   "logo": "https://files.catbox.moe/adhn5v.jpg",
-  "keywords": ["ANAYAT-AI"],
+  "keywords": ["JOEN-MEHAR007"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ANAYAT-AI"
+      "value": "JOEN-MEHAR007"
     }, 
       
     "PREFIX": {
@@ -78,14 +78,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ANAYAT-AI 🖤*"
+      "value": "*SEEN YOUR STATUS BY JOEN-MEHAR007 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝙰𝙽𝙰𝚈𝙰𝚃-𝙷𝙰𝙲𝙺𝙴𝚁"
+      "value": "JOEN-MEHAR007"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ANAYAT-AI"
+      "value": "JOEN-MEHAR007"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙰𝙽𝙰𝚈𝙰𝚃-𝙰𝙸*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ JOEN-MEHAR007*"
     },
 
       "DELETE_LINKS": {
