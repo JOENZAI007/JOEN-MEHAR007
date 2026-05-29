@@ -12,7 +12,7 @@ cmd({
     pattern: "play",
     alias: ["song", "audio"],
     react: "🎵",
-    desc: "Play song with 𝙰𝙽𝙰𝚈𝙰𝚃-𝙰𝙸 style (FFmpeg fixed)",
+    desc: "Play song with JOEN-MEHAR007 style (FFmpeg fixed)",
     category: "download",
     use: ".play <song name>",
     filename: __filename
