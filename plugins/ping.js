@@ -1,6 +1,6 @@
 // ================================
 // SIMPLE PING
-// © 𝙰𝙽𝙰𝚈𝙰𝚃-𝙰𝙸
+// © JOEN-MEHAR007
 // ================================
 
 const { cmd } = require('../command');
@@ -20,7 +20,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, { 
             text: `> ☞ Pong ${end - start}ms
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙰𝙽𝙰𝚈𝙰𝚃-𝙰𝙸`
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ JOEN-MEHAR007`
         }, { quoted: m });
         
     } catch (e) {
