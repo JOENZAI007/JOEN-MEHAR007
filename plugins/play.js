@@ -38,11 +38,11 @@ cmd({
 
         const video = search.videos[0];
 
-        // 🎧 INFO BOX (ANAYAT STYLE)
+        // 🎧 INFO BOX (JOEN-MEHAR007 STYLE)
         await conn.sendMessage(from, {
             image: { url: video.thumbnail },
             caption: `
-> *𝙰𝙽𝙰𝚈𝙰𝚃 𝙷𝙰𝙲𝙺𝙴𝚁 🇵🇰*
+> *JOEN-MEHAR007 🇵🇰*
 ╭───────────────────
 │ 🎧 *SONG FOUND*
 │
@@ -52,7 +52,7 @@ cmd({
 │
 │ ⏳ *Converting to MP3...*
 ╰───────────────────
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙰𝙽𝙰𝚈𝙰𝚃-𝙰𝙸*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ JOEN-MEHAR007*
 `
         }, { quoted: mek });
 
@@ -110,7 +110,7 @@ cmd({
             caption: `
 🎶 *${video.title}*
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙰𝙽𝙰𝚈𝙰𝚃-𝙰𝙸*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ JOEN-MEHAR007*
 `
         }, { quoted: mek });
 
