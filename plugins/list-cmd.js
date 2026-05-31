@@ -73,7 +73,7 @@ cmd({
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/QjJ3MgKN/20250910-172709.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://eliteprotech-url.zone.id/1780041359081m6jlml.jpg' },
                 caption: menuText,
                 contextInfo: {
                     mentionedJid: [m.sender],
